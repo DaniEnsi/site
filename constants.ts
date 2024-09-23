@@ -59,7 +59,7 @@ export const siteSettings = {
   siteTitle: "Daniel Ensminger",
   siteDescription: "Your site description",
   siteUrl: "https://yoursite.com",
-  avatarurl: "https://i.vgy.me/TOa8CI.jpg"
+  avatarUrl: "https://i.vgy.me/TOa8CI.jpg"
 };
 
 

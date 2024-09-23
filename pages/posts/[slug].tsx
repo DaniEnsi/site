@@ -68,14 +68,13 @@ export default function Post(props) {
                 href="/"
                 className="flex flex-row items-center gap-2 [font-variation-settings:'wght'_450]"
               >
-                <div>
+                <div className="relative w-5 h-5">
                   <Image
-                    alt={props.siteSettings.siteTitle}
-                    title={props.siteSettings.siteTitle}
-                    className="rounded-full bg-gray-200 dark:bg-neutral-600"
-                    src={props.siteSettings.avatarUrl}
-                    width={20}
-                    height={20}
+                  alt={props.siteSettings.siteTitle}
+                  title={props.siteSettings.siteTitle}
+                  className="rounded-full bg-gray-200 dark:bg-neutral-600 object-cover"
+                  src={props.siteSettings.avatarUrl}
+                  layout="fill"
                   />
                 </div>
               </Link>
