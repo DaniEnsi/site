@@ -5,7 +5,7 @@ import { LinkExternal } from "../components/Links";
 
 // TODO: Fetch from CMS
 const PATENTS = [
-  { id: "US11809918B1", title: "App actions in a content management system" },
+  { id: "DE202024102461", title: "Gepäckträger für ein Fahrrad sowie Fahrrad mit Gepäckträger", link: "https://register.dpma.de/DPMAregister/pat/register?AKZ=2020241024613" },
 ];
 
 export default function Patents() {
@@ -30,7 +30,7 @@ export default function Patents() {
               <dd className="list-content border-none pb-4 pt-0 sm:pb-0">
                 <div>
                   <LinkExternal
-                    href={`//patents.google.com/patent/${patent.id}`}
+                    href={patent.link}
                   >
                     {patent.title}
                   </LinkExternal>
