@@ -55,7 +55,7 @@ export default function Resume() {
       <dd className="list-content border-none pt-0">
         <div>Technology Intern</div>
         <div>
-          <LinkExternal href="//stinkstudios.com">Helmholtz Institute</LinkExternal>
+          <LinkExternal href="//www.hia.rwth-aachen.de">Helmholtz Institute</LinkExternal>
         </div>
         <div className="pt-1 text-sm text-neutral-500 [font-variation-settings:'opsz'_14] dark:text-silver-dark">
           Aachen, Germany

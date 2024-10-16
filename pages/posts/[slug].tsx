@@ -74,7 +74,7 @@ export default function Post(props) {
                   title={props.siteSettings.siteTitle}
                   className="rounded-full bg-gray-200 dark:bg-neutral-600 object-cover"
                   src={props.siteSettings.avatarUrl}
-                  layout="fill"
+                  fill
                   />
                 </div>
               </Link>
