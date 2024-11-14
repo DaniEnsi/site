@@ -52,23 +52,13 @@ export const posts = [
     metaDescription: "I wrote this post about 5 years ago. I wanted to include it as I still very much stand by it. Living by principle and all that.",
     tags: null,
     body: "<Note>\n  I wrote this post about 5 years ago. I wanted to include it as I still very much stand by it. Living by principle and all that.\n</Note>\n\nIn the last couple of weeks, I have made quite a bit of experience when it comes to shipping projects and designs. Today I want to share one of the lessons I've learned from doing that.\n\n> Don't ship mediocre.\n\nExplanation needed?\n\nIf you know that something about your design could be executed better, __then change it__. There is no excuse for not doing it.\n\nI often find myself ignoring bugs or things I could do better: I just want to ship the project and disregard some of the small things – details I could present better; mostly because motivation or time is lacking.\n\nBut finally, as a designer, you always have to try to get the best out of every project, because everything you do represents – and defines you."
-  },
-  {
-    title: "Hey Anthony",
-    slug: "hey-anthony",
-    publishedDate: "2024-11-14T12:00:00.000+02:00",
-    coverUrl: null,
-    coverAlt: null,
-    metaDescription: "If you see this you found my Blog :)",
-    tags: null,
-    body: "This Post is for Anthony :), also I havent done the projects page yet. The code is 8059 for the projcts page if u wanna see a blank page :)"
   }
 ];
 
 export const siteSettings = {
   siteTitle: "Daniel Ensminger",
-  siteDescription: "Your site description",
-  siteUrl: "https://yoursite.com",
+  siteDescription: "This is Daniel Ensminger's Portfolio Website",
+  siteUrl: "https://me.x70.one",
   avatarUrl: "https://i.vgy.me/TOa8CI.jpg"
 };
 
