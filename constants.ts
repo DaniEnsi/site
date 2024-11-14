@@ -61,7 +61,7 @@ export const posts = [
     coverAlt: null,
     metaDescription: "If you see this you found my Blog :)",
     tags: null,
-    body: "This Post is for Anthony Sistilli :)"
+    body: "This Post is for Anthony :), also I havent done the projects page yet. The code is 8059 for the projcts page if u wanna see a blank page :)"
   }
 ];
 
