@@ -36,7 +36,7 @@ export const posts = [
   {
     title: "Avoiding Font Piracy On Github & Netlify",
     slug: "avoiding-font-piracy-github-netlify",
-    publishedDate: "2018-03-05T00:00:00.000+01:00",
+    publishedDate: "2020-03-05T00:00:00.000+01:00",
     coverUrl: null,
     coverAlt: null,
     metaDescription: "After reading How Github became the web's largest font piracy site (and how to fix it) I was wondering how I can avoid uploading/publishing font files on Github",
@@ -46,12 +46,22 @@ export const posts = [
   {
     title: "Don't Ship Mediocre",
     slug: "dont-ship-mediocre",
-    publishedDate: "2013-11-23T12:00:00.000+02:00",
+    publishedDate: "2018-11-23T12:00:00.000+02:00",
     coverUrl: null,
     coverAlt: null,
-    metaDescription: "I wrote this post about 10 years ago. I wanted to include it as I still very much stand by it. Living by principle and all that.",
+    metaDescription: "I wrote this post about 5 years ago. I wanted to include it as I still very much stand by it. Living by principle and all that.",
     tags: null,
-    body: "<Note>\n  I wrote this post about 10 years ago. I wanted to include it as I still very much stand by it. Living by principle and all that.\n</Note>\n\nIn the last couple of weeks, I have made quite a bit of experience when it comes to shipping projects and designs. Today I want to share one of the lessons I've learned from doing that.\n\n> Don't ship mediocre.\n\nExplanation needed?\n\nIf you know that something about your design could be executed better, __then change it__. There is no excuse for not doing it.\n\nI often find myself ignoring bugs or things I could do better: I just want to ship the project and disregard some of the small things – details I could present better; mostly because motivation or time is lacking.\n\nBut finally, as a designer, you always have to try to get the best out of every project, because everything you do represents – and defines you."
+    body: "<Note>\n  I wrote this post about 5 years ago. I wanted to include it as I still very much stand by it. Living by principle and all that.\n</Note>\n\nIn the last couple of weeks, I have made quite a bit of experience when it comes to shipping projects and designs. Today I want to share one of the lessons I've learned from doing that.\n\n> Don't ship mediocre.\n\nExplanation needed?\n\nIf you know that something about your design could be executed better, __then change it__. There is no excuse for not doing it.\n\nI often find myself ignoring bugs or things I could do better: I just want to ship the project and disregard some of the small things – details I could present better; mostly because motivation or time is lacking.\n\nBut finally, as a designer, you always have to try to get the best out of every project, because everything you do represents – and defines you."
+  },
+  {
+    title: "Hey Anthony",
+    slug: "hey-anthony",
+    publishedDate: "2024-11-14T12:00:00.000+02:00",
+    coverUrl: null,
+    coverAlt: null,
+    metaDescription: "If you see this you found my Blog :)",
+    tags: null,
+    body: "This Post is for Anthony Sistilli :)"
   }
 ];
 
