@@ -13,13 +13,13 @@ export default function Resume() {
         </h3>
       </dt>
       <dd className="list-content">
-        <div>Biomedical Engineering Intern</div>
+        <div>Working Student in Software Development</div>
         <div>
-        <LinkExternal href="//biosensors.com">Biosensors</LinkExternal>
+        <LinkExternal href="//brainlab.com">BrainLab</LinkExternal>
         </div>
         
         <div className="pt-1 text-sm text-neutral-500 [font-variation-settings:'opsz'_14] dark:text-silver-dark">
-          Stuttgart, Germany
+          Munich, Germany
         </div>
       </dd>
       
