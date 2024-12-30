@@ -7,30 +7,26 @@ export default function Resume() {
       <dt className="list-title">
         <h3 className="text-neutral-500 dark:text-silver-dark">
           <div className="flex items-center gap-2">
-            2024
-            
-          </div>
-        </h3>
-      </dt>
-      <dd className="list-content border-none pt-0">
-      <div>Working Stundent in Software Developemnt</div>
-        <div>
-          <LinkExternal href="//brainlab.com">BrainLab</LinkExternal>
-        </div>
-        <div className="pt-1 text-sm text-neutral-500 [font-variation-settings:'opsz'_14] dark:text-silver-dark">
-          Munich, Germany
-        </div>
-      </dd>
-      
-      <dt className="list-title">
-        <h3 className="text-neutral-500 dark:text-silver-dark">
-          <div className="flex items-center gap-2">
-            2024
+            2024 <Badge>Present</Badge>
             
           </div>
         </h3>
       </dt>
       <dd className="list-content">
+        <div>Biomedical Engineering Intern</div>
+        <div>
+        <LinkExternal href="//biosensors.com">Biosensors</LinkExternal>
+        </div>
+        
+        <div className="pt-1 text-sm text-neutral-500 [font-variation-settings:'opsz'_14] dark:text-silver-dark">
+          Stuttgart, Germany
+        </div>
+      </dd>
+      
+      <dt className="list-title mt-4 border-none pt-0 sm:mt-0">
+        <h3 className="text-neutral-500 dark:text-silver-dark">2024</h3>
+      </dt>
+      <dd className="list-content border-none pt-0">
         <div>Biomedical Engineering Intern</div>
         <div>
         <LinkExternal href="//biosensors.com">Biosensors</LinkExternal>
