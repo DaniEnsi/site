@@ -126,7 +126,7 @@ export default function Archipelago() {
                 LinkedIn
               </div>
             </Command.Item>
-            <Command.Item onSelect={() => navigate("//twitter.com/fschultz_")}>
+            <Command.Item onSelect={() => navigate("//twitter.com/dani_duese")}>
               <div>
                 <TwitterIcon size={16} />
                 Twitter
